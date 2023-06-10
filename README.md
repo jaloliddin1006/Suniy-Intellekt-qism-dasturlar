@@ -4,3 +4,6 @@
  
  Ma'lumotlar qanchalik to'g'ri va aniq chiqishi bizdagi yig'ilgan datalarni ko'pligiga bog'liq. Qancha data miz ko'p bo'lsa aniqlik koefsienti ham shuncha baland bo'ladi
  
+
+
+shunchaki qiziqishdan ochilgan, va yozib korilgan suniy intellektga doir yechimlar to'planib boriladi
